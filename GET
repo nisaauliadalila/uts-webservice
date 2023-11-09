@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "namawisata": "Lawang Sewu",
+        "lokasiwisata": "Jl. Pemuda No.160, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132"
+    },
+    {
+        "id": 2,
+        "namawisata": "Wisata Sam Poo Kong",
+        "lokasiwisata": "Jl. Simongan No.129, Bongsari, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50148"
+    },
+    {
+        "id": 3,
+        "namawisata": "Old Town Semarang",
+        "lokasiwisata": "2CJH+M9F, Tanjung Mas, Semarang Utara, Semarang City, Central Java 50174"
+    }
+]
