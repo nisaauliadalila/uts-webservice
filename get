@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "namawisata": "Pantai Parangtritis",
+        "lokasiwisata": "Bantul Jogja"
+    },
+    {
+        "id": 3,
+        "namawisata": "Nusa Penida",
+        "lokasiwisata": "Bali"
+    },
+    {
+        "id": 4,
+        "namawisata": "Desa Sukomakmur",
+        "lokasiwisata": "Kab, Magelang"
+    },
+    {
+        "id": 5,
+        "namawisata": "Karimunjawa",
+        "lokasiwisata": "Pulau Karimunjawa"
+    }
+]
